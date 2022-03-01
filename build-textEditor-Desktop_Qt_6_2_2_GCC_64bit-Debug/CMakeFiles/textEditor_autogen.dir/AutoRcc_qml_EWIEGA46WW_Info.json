@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/rohit/Desktop/ROHIT/qml/10/build-textEditor-Desktop_Qt_6_2_2_GCC_64bit-Debug/textEditor_autogen",
+	"CMAKE_BINARY_DIR" : "/home/rohit/Desktop/ROHIT/qml/10/build-textEditor-Desktop_Qt_6_2_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/rohit/Desktop/ROHIT/qml/10/build-textEditor-Desktop_Qt_6_2_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/rohit/Desktop/ROHIT/qml/10/textEditor",
+	"CMAKE_SOURCE_DIR" : "/home/rohit/Desktop/ROHIT/qml/10/textEditor",
+	"INCLUDE_DIR" : "/home/rohit/Desktop/ROHIT/qml/10/build-textEditor-Desktop_Qt_6_2_2_GCC_64bit-Debug/textEditor_autogen/include",
+	"INPUTS" : [ "/home/rohit/Desktop/ROHIT/qml/10/textEditor/main.qml" ],
+	"LOCK_FILE" : "/home/rohit/Desktop/ROHIT/qml/10/build-textEditor-Desktop_Qt_6_2_2_GCC_64bit-Debug/CMakeFiles/textEditor_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/rohit/Qt/6.2.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/rohit/Desktop/ROHIT/qml/10/build-textEditor-Desktop_Qt_6_2_2_GCC_64bit-Debug/CMakeFiles/textEditor_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/rohit/Desktop/ROHIT/qml/10/textEditor/qml.qrc",
+	"VERBOSITY" : 0
+}
